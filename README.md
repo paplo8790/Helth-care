@@ -1,2 +1,2 @@
-# Helth-care
+# Heart Attack prediction
 data analysis
